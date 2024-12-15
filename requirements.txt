@@ -1,0 +1,11 @@
+urllib3
+argparse
+tabulate
+neotermcolor
+requests
+beautifulsoup4
+lxml
+selenium
+pandas
+selenium
+webdriver-manager
