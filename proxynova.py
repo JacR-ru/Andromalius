@@ -66,7 +66,6 @@ def find_leaks_local_db(database, keyword, number):
                 data = json.load(json_file)
                 lines = data.get("lines", [])
                 for line in lines:
-                    # Проверка на ключевое слово в строке
                     if keyword.lower() in line.lower():
                         results.append(line.strip())
             except json.JSONDecodeError as e:
@@ -79,7 +78,6 @@ def find_leaks_local_db(database, keyword, number):
         try:
             with open(database, 'r', encoding='utf-8') as file:
                 for line in file:
-                    # Проверка на ключевое слово в строке
                     if keyword.lower() in line.lower():
                         results.append(line.strip())
 
