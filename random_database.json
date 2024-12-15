@@ -1,0 +1,25 @@
+{
+    "lines": [
+        "guest81@website.org:qwerty",
+        "admin16@website.org:password123",
+        "user12@test.com:123456",
+        "guest71@platform.net:letmein",
+        "user13@demo.com:123456",
+        "user76@platform.net:admin123",
+        "guest99@website.org:admin123",
+        "user85@demo.com:admin123",
+        "admin40@test.com:123456",
+        "guest83@demo.com:qwerty",
+        "guest1@website.org:letmein",
+        "guest83@website.org:letmein",
+        "guest85@test.com:qwerty",
+        "admin11@demo.com:123456",
+        "admin46@example.com:qwerty",
+        "user87@website.org:password123",
+        "guest71@website.org:letmein",
+        "guest79@website.org:letmein",
+        "admin98@website.org:123456",
+        "user41@example.com:letmein",
+        "admin@example.com:password"
+    ]
+}
